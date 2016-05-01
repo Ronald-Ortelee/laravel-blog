@@ -57,5 +57,4 @@ $response->send();
 
 $kernel->terminate($request, $response);
 
-// Show all information, defaults to INFO_ALL
-phpinfo();
+
